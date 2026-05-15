@@ -1,23 +1,25 @@
 # GRC Projects
 
-This repository contains my Governance, Risk & Compliance (GRC) learning projects, cybersecurity documentation, risk assessments, policies, and security governance work.
+Hands-on Governance, Risk & Compliance (GRC) projects, documentation, and 
+security governance work by Firas Yasin — Cybersecurity Student at 
+Asia Pacific University × De Montfort University (UK).
 
-## Areas of Interest
-- Risk Management
-- Security Governance
-- ISO 27001
-- NIST Cybersecurity Framework
-- Incident Response
-- Security Policies
-- Vendor & Third-Party Risk
-- Compliance & Security Documentation
+---
 
-## Current Goals
-- Build practical GRC-focused projects
-- Develop cybersecurity governance knowledge
-- Strengthen technical and analytical skills
-- Prepare for future cybersecurity internship opportunities
+## Repository Structure
 
-## Author
-Firas Yasin  
-Cybersecurity Student | Aspiring GRC Analyst
+| Folder | Description |
+|--------|-------------|
+| `tryhackme-writeups/` | Room writeups — concepts, tools, and takeaways |
+| `risk-assessments/` | Mock risk assessments for fictional organisations |
+| `security-policies/` | Sample security policies and governance documents |
+| `compliance-frameworks/` | NIST CSF and ISO 27001 mapping exercises |
+| `incident-response/` | Incident response plans and playbooks |
+
+---
+
+## About
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
+- 🏅 [Credly](https://www.credly.com/users/fiyadovich)
+- 💻 [TryHackMe](https://tryhackme.com/p/FirasYasin)
