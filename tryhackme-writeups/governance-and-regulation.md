@@ -85,14 +85,11 @@ Processing Integrity, and Privacy.
 
 ## Personal Takeaways
 
-- GRC isn't just a compliance checkbox — it's a strategic function that aligns 
-security with business objectives
-- Different regulations apply to different sectors; understanding which framework 
-applies where is a core GRC skill
-- ISO 27001 and NIST 800-53 are the two most referenced standards in the field 
-and will be directly relevant to any GRC role
-- The distinction between policies, standards, guidelines, procedures, and 
-baselines is something GRC analysts work with daily
+This was one of the first GRC-focused rooms I completed and honestly 
+it was a lot to take in at once. The sheer number of frameworks and 
+regulations was overwhelming initially GDPR, HIPAA, PCI-DSS, NIST, 
+ISO 27001, SOC 2 all in one room. Looking back it makes sense as a 
+foundation since everything in GRC references these standards constantly.
 
 ---
 
