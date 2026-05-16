@@ -6,3 +6,4 @@ Documentation of completed TryHackMe rooms covering key concepts, tools, and les
 | Room | Category | Difficulty | Date |
 |------|----------|------------|------|
 | [Governance and Regulation](governance-and-regulation.md) | GRC / Compliance | Easy | May 2026 |
+| [Security Principles](security-principles.md) | Security Fundamentals | Easy | May 2026 |
