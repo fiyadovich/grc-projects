@@ -1,7 +1,7 @@
 # GRC Projects
 
 Hands-on Governance, Risk & Compliance (GRC) projects, documentation, and 
-security governance work by Firas Yasin — Cybersecurity Student at 
+security governance work by Firas Yasin, Cybersecurity Student at 
 Asia Pacific University × De Montfort University (UK).
 
 ---
