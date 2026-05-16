@@ -6,4 +6,4 @@ my GRC learning journey.
 ## Completed Policies
 | Policy | Type | Date |
 |--------|------|------|
-| *Coming soon* | | |
+| [GoodBank Password Policy](goodbank-password-policy.md) | Password Management | May 2026 |
