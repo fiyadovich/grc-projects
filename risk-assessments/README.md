@@ -6,4 +6,4 @@ vulnerabilities, and recommended controls.
 ## Completed Assessments
 | Assessment | Organisation Type | Framework | Date |
 |------------|------------------|-----------|------|
-| *Coming soon* | | | |
+| [GoodBank Information Security Risk Assessment](goodbank-risk-assessment.md) | Banking | ISO 27001, NIST CSF, PCI-DSS | May 2026 |
