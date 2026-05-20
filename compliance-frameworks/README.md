@@ -6,4 +6,4 @@ and other compliance standards.
 ## Completed Exercises
 | Exercise | Framework | Date |
 |----------|-----------|------|
-| *Coming soon* | | |
+| [GoodBank NIST CSF Mapping](goodbank-nist-csf-mapping.md) | NIST CSF | May 2026 |
