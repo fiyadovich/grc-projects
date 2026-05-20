@@ -11,5 +11,6 @@ Documentation of completed TryHackMe rooms covering key concepts, tools, and les
 | [Defensive Security Intro](defensive-security-intro.md) | Defensive Security | Easy | May 2026 |
 | [SOC L1 Alert Reporting](soc-l1-alert-reporting.md) | SOC / Defensive Security | Easy | May 2026 |
 | [Pyramid of Pain](pyramid-of-pain.md) | Threat Intelligence | Easy | May 2026 |
+| [Intro to Cyber Threat Intel](intro-to-cyber-threat-intel.md) | Threat Intelligence | Easy | May 2026 |
 
 
