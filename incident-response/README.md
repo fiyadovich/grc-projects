@@ -6,4 +6,4 @@ my GRC learning journey.
 ## Completed Documents
 | Document | Type | Date |
 |----------|------|------|
-| *Coming soon* | | |
+| [GoodBank Incident Response Plan](goodbank-incident-response-plan.md) | Incident Response Plan | May 2026 |
